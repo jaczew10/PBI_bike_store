@@ -2,7 +2,7 @@
 
 Links:
 
-🔗 Dashboard: [Open the dashboard][(https://app.powerbi.com/reportEmbed?reportId=bc3feb2c-2bfb-453e-960e-e2ace72eff86&autoAuth=true&ctid=53bc24c5-73ad-421a-9408-3ea555be4a07)](https://app.powerbi.com/view?r=eyJrIjoiYjE5OGEzMzgtZjhmMi00YWJmLTk4ZTItYWM4NTBmMWFmYTFlIiwidCI6ImMyODMzOWI1LWJjMjMtNDdjNC1iZDQyLTZhYzE0NjRjM2Y3MCJ9)
+🔗 Dashboard: [Open the dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjE5OGEzMzgtZjhmMi00YWJmLTk4ZTItYWM4NTBmMWFmYTFlIiwidCI6ImMyODMzOWI1LWJjMjMtNDdjNC1iZDQyLTZhYzE0NjRjM2Y3MCJ9)
 
 📂 DataSource: PowerBI Course (Simulated data)
 
